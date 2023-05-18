@@ -1,6 +1,8 @@
 <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Karem Alvarado!</h2>
 <p>Frontent Developer from Venezuela</p>
 
+<p>I'm a passionate frontend developer with a strong interest in design and styling. I enjoy creating visually appealing and functional user experiences. I'm constantly seeking new ways to enhance my skills and learn new technologies.</p>
+
 <h3> Technologies & Tools </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
