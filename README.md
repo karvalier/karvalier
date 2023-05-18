@@ -1,5 +1,7 @@
-### Hi there 👋, I am Karem 
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Karem Alvarado!</h2>
+<p>Frontent Developer from Venezuela</p>
 
+## Technologies & Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/next.js-0075A8?style=flat-square&logo=nextdotjs&logoColor=white" />
